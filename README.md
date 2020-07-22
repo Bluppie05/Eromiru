@@ -12,3 +12,5 @@ Eromiru can download and stream your favorite hentai without any hassle or secur
 ## Coming soon:
 - Eromanga support
 - Doujinshi support
+
+Powered by Hentai-dl
